@@ -1,5 +1,5 @@
 # wpixton.github.io
-This is my GitHub page. Here are links to some of my projects. 
+Thanks for checking out my GitHub page! Here are links to some of my projects. 
 
 Wordle Game: https://github.com/wpixton/wordle_game
 
